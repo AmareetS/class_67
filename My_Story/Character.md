@@ -8,3 +8,4 @@ Mammy Two Shoes
 Tuffy
 Quacker
 Cuckoo
+Emmie
